@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 2,
+	"type": "square-textured",
+	"textures": {
+		"bottom": "fabricskyboxes:sky/la_faille_bottom.png",
+		"east": "fabricskyboxes:sky/la_faille_east.png",
+		"north": "fabricskyboxes:sky/la_faille_north.png",
+		"south": "fabricskyboxes:sky/la_faille_south.png",
+		"top": "fabricskyboxes:sky/la_faille_top.png",
+		"west": "fabricskyboxes:sky/la_faille_west.png"
+	},
+	"properties": {
+		"fade": {
+			"alwaysOn" : true
+		},
+		"rotation": {
+			"axis": [
+				0.0,
+				0.0,
+				-90.0
+			],
+			"rotationSpeedZ": 0.5
+		},
+		"changeFog" : true,
+		"fogColors": {
+			"red": 0.6,
+			"blue": 0.7,
+			"green": 0.1	
+		}
+	},
+	"conditions": {
+		"worlds": [
+			"minecraft:overworld"
+		]
+	}
+}
