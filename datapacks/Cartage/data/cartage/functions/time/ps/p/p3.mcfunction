@@ -1,0 +1,5 @@
+execute if score Heure data matches 20 run team modify time prefix "Heure: 20"
+execute if score Heure data matches 21 run team modify time prefix "Heure: 21"
+execute if score Heure data matches 22 run team modify time prefix "Heure: 22"
+execute if score Heure data matches 23 run team modify time prefix "Heure: 23"
+execute if score Heure data matches 24 run team modify time prefix "Heure: 24"

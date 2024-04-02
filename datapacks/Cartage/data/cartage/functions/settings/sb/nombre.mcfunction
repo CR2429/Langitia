@@ -1,0 +1,2 @@
+scoreboard objectives setdisplay sidebar nombre
+function cartage:reglage

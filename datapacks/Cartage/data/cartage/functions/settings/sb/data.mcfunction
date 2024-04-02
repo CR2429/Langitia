@@ -1,0 +1,2 @@
+scoreboard objectives setdisplay sidebar data
+function cartage:reglage
