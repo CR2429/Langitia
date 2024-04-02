@@ -5,6 +5,6 @@ Langitia est un univers fictif sur le qu'elle je travaille depuis des années. J
 Voici les mode que je vous recommande de mettre sur la map pour avoir acces a toutes les fonctionnalite que j'ai mis.
 
 ## Forge
-- [Optifine]:https://optifine.net/home
+- [Optifine](https://optifine.net/home)
 ### Fabric
-- [FabricSkyboxes]:https://modrinth.com/mod/fabricskyboxes
+- [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
