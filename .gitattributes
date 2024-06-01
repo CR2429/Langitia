@@ -1,2 +1,2 @@
 resources.zip filter=lfs diff=lfs merge=lfs -text
-worldpainter/Langitia.world filter=lfs diff=lfs merge=lfs -text
+worldpainter/*.world filter=lfs diff=lfs merge=lfs -text
